@@ -1,5 +1,5 @@
 let express = require('express');
-let  assert  = require('assert')
+let assert = require('assert')
 let restify = require('restify-clients');
 let router = express.Router();
 
